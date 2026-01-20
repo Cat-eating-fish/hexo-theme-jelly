@@ -1,11 +1,11 @@
-# Header
+# 页眉设置
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  归档: /archives
 
-# links with icon in the left-column bar
+# 左侧栏带图标的链接
 subnav:
-  # github: "#"
+  github: "https://github.com/Cat-eating-fish"
   # mail: "#"
   # rss: "/atom.xml"
   # zhihu: "#"
@@ -16,48 +16,48 @@ subnav:
   # twitter: "#"
   # linkedin: "#"
 
-# Set rss to false to disable feed link
-# Leave rss as blank to use site's feed link, and install hexo-generate-feed
-# Set rss to specific value if you have burned your feed already
+# 设置 rss 为 false 以禁用订阅链接
+# 留空 rss 以使用网站的订阅链接，并安装 hexo-generate-feed
+# 如果你已经烧录过订阅源，请将 rss 设置为特定值
 rss: /atom.xml
 
-# you can modify the value of excerpt_link to whatever you like
-excerpt_link: learn more
+# 你可以将 excerpt_link 的值修改为你喜欢的任何内容
+excerpt_link: 阅读全文
 fancybox: true
 mathjax: false
 
-# enable the animation effect, recommended
+# 启用动画效果，推荐开启
 animate: true
 
-# whether to open the link in the new window
+# 是否在新窗口中打开链接
 open_in_new: false
 
 favicon: /img/favicon.ico
 
-# your avatar's url
+# 你的头像 URL
 avatar: 
 
-# NetEase Cloud Music (wangyiyun of course)
+# 网易云音乐
 music:
   enable: false
-  # id of a certain music on NetEase Cloud Music
-  id: 
+  # 网易云音乐上特定音乐的 ID
+  id: 1334564681
 
-# if you need to enable disqus, set 'disqus_shortname' to your disqus username
+# 如果需要启用 disqus，请将 'disqus_shortname' 设置为你的 disqus 用户名
 # disqus_shortname:
 
-# whether to enable tagcloud
+# 是否启用标签云
 tagcloud: true
 
-# whether to enable leancloud to count visitors
+# 是否启用 leancloud 统计访问量
 leancloud_visitors:
   enable: false
   app_id: your_app_id
   app_key: your_app_key
 
-# whether to enable the friend links, if not, set 'friends' to false and do not add any link
-# friends: false
+# 是否启用友情链接，如果不启用，设置 'friends' 为 false 且不要添加任何链接
+friends: true 
 friends:
   github: https://github.com/
-# a brief introduction to yourself
-aboutme: I'm a developer.
+# 关于你的简短介绍
+aboutme: "不要迷恋哥，哥只是个传说。"
