@@ -12,16 +12,12 @@
 
 <img src="https://i.loli.net/2021/07/30/kRNe5HVwBFYs2US.png" alt="preview1.png" style="zoom:50%;" />
 
-
-
 <img src="https://i.loli.net/2021/07/30/2Mzt45ZIVc6XAPQ.png" alt="preview2.png" style="zoom:50%;" />
 
-
-
- ## Installation method
+## Installation method
 
  ```
- git clone https://github.com/preccrep/hexo-theme-jelly.git themes/jelly
+ git clone https://github.com/Cat-eating-fish/hexo-theme-jelly.git themes/jelly
  ```
 
 ## Config
@@ -120,11 +116,6 @@ Add a `.jpg` picture and rename it `bg.jpg` and put it in the `themes/jelly/sour
 
 ## Recent Update
 
-
-
 ## Bug fixed
 
 2021.7.30 - table display overflow
-
-
-
