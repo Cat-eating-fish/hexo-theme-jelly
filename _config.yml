@@ -35,7 +35,7 @@ open_in_new: false
 favicon: /img/favicon.ico
 
 # 你的头像 URL
-avatar: 
+avatar: /img/avatar.jpg
 
 # 网易云音乐
 music:
@@ -56,8 +56,8 @@ leancloud_visitors:
   app_key: your_app_key
 
 # 是否启用友情链接，如果不启用，设置 'friends' 为 false 且不要添加任何链接
-friends: true 
 friends:
+  enable: true
   github: https://github.com/
 # 关于你的简短介绍
 aboutme: "不要迷恋哥，哥只是个传说。"
